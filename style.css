@@ -1,0 +1,162 @@
+/* General styles */
+body {
+    background-color: #fff;
+    font-family: verdana, sans-serif;
+    margin: 0;
+  }
+  
+  /* Layout */
+  .container {
+    display: flex;
+    flex-direction: row;
+    min-height:100vh; /* Ensure container fills viewport height */
+  }
+  
+  /* Left sidebar */
+  .left-sidebar {
+    background-color: turquoise;
+    padding: 20px;
+    position: relative; /* Position submenu relatively */
+    height: 100%;
+    flex: 0 0 250px; /*Fixed width of the sidebar*/
+  }
+  
+  .left-sidebar img {
+    width: 260px;
+    height: 200px;
+  }
+  
+  
+  /* Header elements in sidebar */
+  .left-sidebar h1,
+  .left-sidebar h2 {
+    text-align: center;
+    margin-top: -10px;
+  }
+  
+  .left-sidebar h1 {
+    margin-bottom: 5px; /* Adjust as needed */
+  }
+  
+  .left-sidebar h3 {
+    margin-top: 10px; /* Adjust as needed */
+  }
+  
+  /* Navigation menu */
+  .left-sidebar nav {
+    margin-top: 70px /* General menu styles */
+  }
+  
+  .left-sidebar nav ul {
+    padding-left: 10px; /* Adjust as needed */
+  }
+  
+  .left-sidebar nav a {
+    text-decoration: none;
+    color: black; /* Your desired color */
+  }
+  
+  .left-sidebar nav li {
+    margin-bottom: 5px; /* Adjust as needed */
+  }
+  
+  .left-sidebar nav li a {
+    font-size: 18px; /* Adjust as needed */
+  }
+  
+  .left-sidebar nav li a:hover {
+    background-color: #f7c6c7; /* Baby pink color */
+    padding: 5px 10px; /* Adjust padding as needed */
+    transition: all 0.3s ease-in-out; /* Smooth transition */
+  }
+  
+  /* Submenu */
+  #games-submenu {
+    display: flex;    
+    flex-direction: column;
+  }
+  
+  #games-submenu li {
+    margin-left: 15px; /* Adjust as needed */
+  }
+  
+  #games-submenu li a {
+    padding-left: 0px;
+    text-indent: 0px; /* Indent the entire submenu bullet  */
+    }
+  
+  /* Main content area */
+  main {
+  display: flex;
+  flex-direction: column;  /* Ensure content flows vertically */
+  flex: 1; /* Take up remaining space */
+  padding: 60px;
+  margin-top: -50px;  /* Adjust if needed */
+  /* text-align: justify;  /* Remove this line */
+  word-wrap: break-word;
+  margin-left: 0;
+  h1 {
+    text-align: center;
+  }
+
+  /* Center the video */
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;  /* Optional for vertical centering */
+    margin-bottom: 20px;  /* Optional for spacing */
+  }
+
+  /* Align other content to the left */
+  p,
+  article {
+    align-self: flex-start;
+  }
+  }
+  
+  /*Footer*/
+  .footer {
+    background-color: #f0f0f0; /* Adjust as needed */
+    margin-top: 60px;
+    height: 300%;
+    padding: 0.5px;
+    text-indent: 150px;
+    text-align: center; /* Adjust as needed */
+    border-top: 1px solid #f308f7; /* Optional border */
+  }
+
+  /*Cookies Agreement*/
+  #cookie-banner {
+    position: fixed; /* Or absolute for less intrusive placement */
+    bottom: 0; /* Or top: 0 */
+    left: 0;
+    width: 100%;
+    background-color: #f5ccf3;
+    padding: 5px;
+    text-align: center;
+    z-index: 999; /* Ensure banner stays on top */
+  }
+
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: transparent;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  /* Responsive styles for smaller screens */
+  @media (max-width: 768px) {
+    .left-sidebar {
+      position: relative;
+      width: 100%;
+    }
+  
+    /*@media (max-width: 768px) {
+    .left-sidebar img {
+        width: 100%;
+      }
+    } checking if the issue is coming from here */  
+  }

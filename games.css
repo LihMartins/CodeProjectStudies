@@ -1,0 +1,85 @@
+body 
+{
+  font-family: Verdana, sans-serif; /* Use a sans-serif font for better readability */
+  font-size: 16px; /* Base font size for readability */
+  color: #333; /* Dark text on a light background */
+  background-color: #f7edf6;
+}
+
+.dark-mode {
+  color: #fff; /* Light text on a dark background (for user preference) */
+  background-color: #222;
+}
+
+p {
+  line-height: 1.5; /* Generous line height for better readability */
+  margin-bottom: 20px; /* Space between paragraphs for visual clarity */
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin-left: 250px; /* Adjust to match menu width */
+}
+
+/* Menu */
+#internal-nav-container {
+  width: 350px; /* Adjust as needed */
+  position: fixed;
+  left: 0;
+  top: 220px;
+  bottom: 0;
+  /* Add styling for background, borders, etc. */
+}
+
+li a {
+  font-size: 18px; /* Increase font size of menu items */
+}
+
+img {
+  width: 300px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin: 10px; /* Optional spacing */
+  margin-top: 80px; /* Adjust as needed */
+  border: 2px solid #ddd; /* Optional border */
+}
+
+
+img::before {
+  content: "";
+  display: block;
+  padding-top: 75%; /* Maintain aspect ratio for images with missing dimensions */
+}
+
+img[alt] {
+  border: 2px solid #ddd; /* Visible border around images for visual clarity */
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+}
+
+a {
+  color: #e32de6; /* Menu color */
+  text-decoration: none; /* Remove underline */
+}
+
+/*Footer*/
+.footer {
+  background-color: #f0f0f0; /* Adjust as needed */
+  margin-top: 60px;
+  height: 300%;
+  padding: 0.5px;
+  text-indent: 150px;
+  text-align: center; /* Adjust as needed */
+  border-top: 1px solid #f308f7; /* Optional border */
+}
+
+  /* Responsive styles for smaller screens */
+  @media (max-width: 768px) {
+    body {
+      position: relative;
+      width: 100%;
+    }
+  }  

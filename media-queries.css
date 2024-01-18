@@ -1,0 +1,71 @@
+/* -----------------------------------------------
+Media Queries for Gamers (Desktops and Widescreens)
+----------------------------------------------- */
+
+/* Large Desktops (1440px and wider) */
+@media (min-width: 1440px) {
+    /* Styles for large desktop screens */
+    body {
+    font-size: 18px;
+    }
+
+    /* Wider content areas, expanded navigation */
+    main {
+      max-width: 1200px; /* Limit content width for readability */
+    }
+
+    /* Larger images for high-resolution displays */
+    img {
+    max-width: 100%;
+    height: auto;
+    }
+}
+
+  /* Typical Desktops (1024px to 1439px) */
+@media (min-width: 1024px) and (max-width: 1439px) {
+    /* Slightly narrower content areas */
+    main {
+    max-width: 960px;
+    }
+}
+
+/* -----------------------------------------------
+    Media Queries for Tablets and Mobile Phones
+  ----------------------------------------------- */
+
+@media (max-width: 991px) {
+    /* Stacked content, vertical navigation, smaller images */
+    body {
+    font-size: 14px;
+    }
+
+    main {
+      display: block; /* Ensure single-column layout */
+    }
+
+    nav {
+      display: flex; /* Stack navigation items vertically */
+    flex-direction: column;
+    }
+
+    img {
+      max-width: 50%; /* Reduce image size for smaller screens */
+    }
+}
+
+@media (max-width: 767px) {
+    body {
+    font-size: 12px;
+    }
+
+    /* Additional adjustments for mobile screens */
+}
+
+/* -----------------------------------------------
+    Accessibility and ARIA Rules
+  ----------------------------------------------- */
+
+  /* Ensure sufficient color contrast for text and visual elements */
+  /* Provide meaningful labels for form elements */
+  /* Use appropriate ARIA attributes to convey element roles and states */
+  /* Test with assistive technologies (screen readers, etc.) */
