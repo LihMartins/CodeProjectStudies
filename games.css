@@ -36,6 +36,13 @@ li a {
   font-size: 18px; /* Increase font size of menu items */
 }
 
+a {
+  color: #f207df; /* Menu color */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Images */
+
 img {
   width: 300px; /* Adjust as needed */
   height: auto; /* Maintain aspect ratio */
@@ -58,11 +65,6 @@ img[alt] {
 h1 {
   text-align: center;
   font-size: 32px;
-}
-
-a {
-  color: #e32de6; /* Menu color */
-  text-decoration: none; /* Remove underline */
 }
 
 /*Footer*/

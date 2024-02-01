@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+article {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+strong {
+    color: #007bff; /* Use a different color for strong elements for better contrast */
+}
+
+/* Style links to make them more noticeable */
+a {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Provide some space between sections */
+p strong,
+strong + p,
+strong + p + p {
+    margin-top: 16px;
+}
+
+/* Add a bit of space at the bottom of the article */
+article {
+    margin-bottom: 20px;
+}

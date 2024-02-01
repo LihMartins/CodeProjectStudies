@@ -53,7 +53,8 @@ body {
   
   .left-sidebar nav a {
     text-decoration: none;
-    color: black; /* Your desired color */
+    color: #d419c5c0; /* Your desired color */
+    font-weight: bold; /* Your desired font weight */
   }
   
   .left-sidebar nav li {
@@ -99,6 +100,12 @@ body {
     text-align: center;
   }
 
+  .centered-content {
+    text-align: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+  }
+  
+
   /* Center the video */
   .video-container {
     display: flex;
@@ -135,28 +142,43 @@ body {
     padding: 5px;
     text-align: center;
     z-index: 999; /* Ensure banner stays on top */
+  }  
+
+  #accept-all-cookies {
+    margin-right: -140px;
   }
 
-  .close-button {
+  #cookie-banner .close-button {
     position: absolute;
     top: 10px;
     right: 10px;
     background-color: transparent;
     border: none;
     font-size: 1.5em;
-    cursor: pointer;
+    cursor: pointer;    
   }
-  
-  /* Responsive styles for smaller screens */
-  @media (max-width: 768px) {
-    .left-sidebar {
-      position: relative;
-      width: 100%;
-    }
-  
-    /*@media (max-width: 768px) {
-    .left-sidebar img {
-        width: 100%;
-      }
-    } checking if the issue is coming from here */  
+  /*MEDIA QUERY*/
+  /* Media queries for responsiveness */
+@media (max-width: 767px) {
+  /* Styles for small screens */
+
+  body {
+    font-size: 14px;
   }
+
+  .container {
+    padding: 10px;
+  }
+
+  nav {
+    display: block; /* Stack navigation items vertically */
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  .extra-info {
+    display: none; /* Hide extra information on small screens */
+  }
+}

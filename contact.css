@@ -31,7 +31,7 @@ form {
     resize: none; /* Prevent resizing */
   }
   
-  /* Menu */
+/* Menu */
 #internal-nav-container {
   width: 350px; /* Adjust as needed */
   position: fixed;
@@ -43,6 +43,11 @@ form {
 
 li a {
   font-size: 20px; /* Increase font size of menu items */
+}
+
+a {
+  color: #e32de6; /* Menu color */
+  text-decoration: none; /* Remove underline */
 }
 
   /* Focus styles */
@@ -62,6 +67,8 @@ li a {
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
+    margin: 0 auto; /* Center the button horizontally */
+    display: block; /* Ensure the margin auto works correctly */
   }
   
   /* Accessibility features */
@@ -87,15 +94,9 @@ li a {
   /* Paragraph */
   p {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
   }
   
-  a {
-    color: #e32de6; /* Menu color */
-    text-decoration: none; /* Remove underline */
-    font-size: 18px;
-  }
-
     /* Responsive styles for smaller screens */
     @media (max-width: 768px) {
       body {

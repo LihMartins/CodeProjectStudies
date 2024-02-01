@@ -37,6 +37,7 @@ li a {
   font-size: 18px; /* Increase font size of menu items */
 }
 
+/* Images */
 img {
   width: 200px;
   height: 200px;
@@ -64,7 +65,7 @@ h1 {
 }
 
 a {
-  color: #e32de6; /* Menu color */
+  color: #f207df; /* Menu color */
   text-decoration: none; /* Remove underline */
 }
 

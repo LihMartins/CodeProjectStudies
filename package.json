@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "grunt": "^1.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^5.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "jest": "^29.7.0"
+  }
+}
