@@ -158,7 +158,28 @@ body {
     cursor: pointer;    
   }
   /*MEDIA QUERY*/
-  /* Media queries for responsiveness */
+/* Default styles for larger screens */
+body {
+  font-size: 16px;
+}
+
+.container {
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+}
+
+img {
+  max-width: 100%;
+}
+
+.extra-info {
+  display: block;
+}
+
+/* Media queries for responsiveness */
 @media (max-width: 767px) {
   /* Styles for small screens */
 
