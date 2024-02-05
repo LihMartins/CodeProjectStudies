@@ -32,8 +32,8 @@ fieldset {
 }
 
 button {
-    background-color: turquoise;
-    color: #f207df;
+    background-color: #B6F6F6;
+    color: #8A0F71;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -44,7 +44,7 @@ button {
 }
 
 a {
-    color: turquoise;
+    color: #B6F6F6;
     text-decoration: none;
     display: block;
     text-align: center;

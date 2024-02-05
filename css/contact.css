@@ -46,7 +46,7 @@ li a {
 }
 
 a {
-  color: #e32de6; /* Menu color */
+  color: #8A0F71; /* Menu color */
   text-decoration: none; /* Remove underline */
 }
 
@@ -60,8 +60,8 @@ a {
   
   /* Button */
   button[type="submit"] {
-    background-color: rgb(105, 239, 226);
-    color: #f207df;
+    background-color: #B6F6F6;
+    color: #8A0F71;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
