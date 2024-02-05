@@ -82,3 +82,8 @@ footer a {
 footer a:hover {
     text-decoration: none;
 }
+
+/* Remove underline for all links in the footer */
+.footer a:-webkit-any-link {
+    text-decoration: none !important;
+    }

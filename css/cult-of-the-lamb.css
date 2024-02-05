@@ -87,6 +87,11 @@ h3 {
   border-top: 1px solid #f308f7; /* Optional border */
 }
 
+/* Remove underline for all links in the footer */
+.footer a:-webkit-any-link {
+  text-decoration: none !important;
+  }
+
   /* Responsive styles for smaller screens */
   @media (max-width: 768px) {
     body {

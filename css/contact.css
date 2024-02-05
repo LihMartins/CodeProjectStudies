@@ -60,13 +60,14 @@ a {
   
   /* Button */
   button[type="submit"] {
-    background-color: turquoise;
+    background-color: rgb(105, 239, 226);
     color: #f207df;
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
+    font-weight: bold;
     margin: 0 auto; /* Center the button horizontally */
     display: block; /* Ensure the margin auto works correctly */
   }
