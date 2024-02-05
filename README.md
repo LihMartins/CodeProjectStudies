@@ -226,6 +226,26 @@ I had to research extensively on how to create and write a compelling README.md 
 
 The culmination of all these resources and tools resulted in the creation of Indieverse, a project I am immensely proud of.
 
+## Lighthouse Desktop Performance
+
+![About Performance](validatorcheckimages/aboutperformance.png)
+![Contact Performance](validatorcheckimages/contactperformance.png)
+![Cult Performance](validatorcheckimages/cultperformance.png)
+![Games Performance](validatorcheckimages/gamesperformance.png)
+![Main Page Performance](validatorcheckimages/lighthousemainpage.png)
+
+## Lighthouse Mobile Performance
+
+![About Performance](validatorcheckimages/aboutmobileperformance.png)
+![Contact Performance](validatorcheckimages/contactmobileperformance.png)
+![Cult Performance](validatorcheckimages/cultmobileperformance.png)
+![Games Performance](validatorcheckimages/gamesmobileperformance.png)
+![Main Page Performance](validatorcheckimages/mobilemainpageperformance.png)
+
+## Security Overview
+
+![Security Overview](validatorcheckimages/securityoverview.png)
+
 ## Finals
 
 Indieverse is not just a website; it's a cosmic journey into the indie gaming universe. The project blends creativity, community, and a love for indie games to offer users a unique and engaging experience. From detailed game reviews to personal connections in the About and Contact sections, Indieverse is a testament to the dedication and passion for indie gaming.

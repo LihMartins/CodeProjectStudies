@@ -64,9 +64,12 @@ h1 {
   font-size: 32px;
 }
 
+  /* Menu */
+
 a {
   color: #8A0F71; /* Menu color */
   text-decoration: none; /* Remove underline */
+  font-weight: bold;
 }
 
 /*Footer*/
