@@ -14,7 +14,7 @@ body {
 
 /* Left sidebar */
 .left-sidebar {
-  background-color: rgb(159, 245, 236);
+  background-color: #B6F6F6;
   padding: 20px;
   position: relative; /* Position submenu relatively */
   height: 100%;
@@ -58,8 +58,8 @@ body {
   
   .left-sidebar nav a {
     text-decoration: none;
-    color: #d419c5c0; /* Your desired color */
-    font-weight: bold; /* Your desired font weight */
+    color: #8A0F71; /* Desired color */
+    font-weight: bold; /* Desired font weight */
   }
   
   .left-sidebar nav li {
@@ -96,7 +96,7 @@ body {
   display: inline-block;
   padding: 10px; /* Adjust padding to increase tap target size */
   text-decoration: none; /* Optional: Remove underline for the link */
-  color: #d419c5c0; /* Optional: Set link text color */
+  color: #8A0F71; /* Optional: Set link text color */
 }
 
 /* Adjust tap target size for the "About" link in the menu */
@@ -104,7 +104,7 @@ body {
   display: inline-block;
   padding: 10px; /* Adjust padding to increase tap target size */
   text-decoration: none; /* Optional: Remove underline for the link */
-  color: #d419c5c0; /* Optional: Set link text color */
+  color: #8A0F71; /* Optional: Set link text color */
 }
 
     /* Adjust tap target size for the "Games" link in the menu */
@@ -112,7 +112,7 @@ body {
   display: inline-block;
   padding: 10px; /* Adjust padding to increase tap target size */
   text-decoration: none; /* Optional: Remove underline for the link */
-  color: #d419c5c0; /* Optional: Set link text color */
+  color: #8A0F71; /* Optional: Set link text color */
 }
 
     /* Adjust tap target size for the "Contact Us" link in the menu */
@@ -120,7 +120,7 @@ body {
       display: inline-block;
       padding: 10px; /* Adjust padding to increase tap target size */
       text-decoration: none; /* Optional: Remove underline for the link */
-      color: #d419c5c0; /* Optional: Set link text color */
+      color: #8A0F71; /* Optional: Set link text color */
     }
   
   /* Main content area */
@@ -187,7 +187,12 @@ body {
     padding: 5px;
     text-align: center;
     z-index: 999; /* Ensure banner stays on top */
-  }  
+  }
+  
+  .cookie-settings-link {
+    color: red;
+    font-weight: bold;
+  }
 
   #accept-all-cookies {
     margin-right: -140px;
