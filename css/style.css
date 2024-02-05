@@ -14,7 +14,7 @@ body {
 
 /* Left sidebar */
 .left-sidebar {
-  background-color: turquoise;
+  background-color: rgb(159, 245, 236);
   padding: 20px;
   position: relative; /* Position submenu relatively */
   height: 100%;
@@ -25,7 +25,7 @@ body {
 }
 
 /* Logo image */
-.left-sidebar img.logo-img {
+.left-sidebar picture img {
   width: 260px;
   height: auto;
   max-width: 100%; /* Ensure the image does not exceed its container */

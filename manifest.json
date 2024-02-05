@@ -1,0 +1,9 @@
+{
+    "name": "Indieverse",
+    "short_name": "Indieverse",
+    "description": "Escape the Ordinary!",
+    "start_url": "https://lihmartins.github.io/CodeProjectStudies/index.html",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "rgb(159, 245, 236)",
+}
