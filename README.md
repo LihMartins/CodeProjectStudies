@@ -80,65 +80,65 @@ Indieverse's features are carefully crafted to cater to gamers, developers, and 
 HTML
 No errors were returned when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
-- ##About##
+**About**
 ![About Check](validatorcheckimages/abouthtmlcheck.PNG)
 
-- ##Confirmation Page##
+**Confirmation Page**
 ![Confirmation Page Check](validatorcheckimages/confirmationpagehtmlcheck.PNG)
 
-- ##Contact##
+**Contact**
 ![Contact Check](validatorcheckimages/contacthtmlcheck.PNG)
 
-- ##Cookie Settings##
+**Cookie Settings**
 ![Cookie Settings Check](validatorcheckimages/cookiessettinghtmlcheck.PNG)
 
-- ##Cult of The Lamb Page##
+**Cult of The Lamb Page**
 ![Cult of the Lamb Check](validatorcheckimages/cultofthelambhtmlcheck.PNG)
 
-- ##Games##
+**Games**
 ![Games Check](validatorcheckimages/gameshtmlcheck.PNG)
 
-- ##Index##
+**Index**
 ![Index Check](validatorcheckimages/indexhtmlcheck.PNG)
 
-- ##Internal Nav##
+**Internal Nav**
 ![Internal Nav Check](validatorcheckimages/internalnavhtmlcheck.PNG)
 
-- ##Privacy Policy##
+**Privacy Policy**
 ![Privacy Policy Check](validatorcheckimages/privacypolicyhtmlcheck.PNG)
 
 ##CSS
 
 No errors were found when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
-- ##About##
+**About**
 ![About Check](validatorcheckimages/aboutcsscheck.PNG)
 
-- ##Confirmation Page##
+**Confirmation Page**
 ![Confirmation Page Check](validatorcheckimages/confirmmationcsscheck.PNG)
 
-- ##Contact##
+**Contact**
 ![Contact Check](validatorcheckimages/contactcsscheck.PNG)
 
-- ##Cookie Settings##
+**Cookie Settings**
 ![Cookies Settings Check](validatorcheckimages/cookiessettingscsscheck.PNG)
 
-- ##Cult of the Lamb Page##
+**Cult of the Lamb Page**
 ![Cult of the Lamb Check](validatorcheckimages/cultofthelambcsscheck.PNG)
 
-- ##Games##
+**Games**
 ![Games Check](validatorcheckimages/gamescsscheck.PNG)
 
-- ##Style##
+**Style**
 ![Style Check](validatorcheckimages/stylecsscheck.PNG)
 
-- ##Internal Nav##
+**Internal Nav**
 ![Internal Nav Check](validatorcheckimages/internalnavcsscheck.PNG)
 
-- ##Privacy Policy##
+**Privacy Policy**
 ![Privacy Policy Check](validatorcheckimages/privacypolicycsscheck.PNG)
 
-- ##Media Query##
+**Media Query**
 ![Media Query Check](validatorcheckimages/mediaquerycsscheck.PNG)
 
 ## Unfixed Bugs
@@ -275,36 +275,36 @@ The culmination of all these resources and tools resulted in the creation of Ind
 
 ## Lighthouse Desktop Performance
 
-- ##About##
+**About**
 ![About Performance](validatorcheckimages/aboutperformance.PNG)
 
-- ##Contact##
+**Contact**
 ![Contact Performance](validatorcheckimages/contactperformance.PNG)
 
-- ##Cult of the Lamb Page##
+**Cult of the Lamb Page**
 ![Cult Performance](validatorcheckimages/cultperformance.PNG)
 
-- ##Games##
+**Games**
 ![Games Performance](validatorcheckimages/gamesperformance.PNG)
 
-- ##Main Page##
+**Main Page**
 ![Main Page Performance](validatorcheckimages/lighthousemainpage.PNG)
 
 ## Lighthouse Mobile Performance
 
-- ##About##
+**About**
 ![About Performance](validatorcheckimages/aboutmobileperformance.PNG)
 
-- ##Contact##
+**Contact**
 ![Contact Performance](validatorcheckimages/contactmobileperformance.PNG)
 
-- ##Cult of the Lamb##
+**Cult of the Lamb**
 ![Cult Performance](validatorcheckimages/cultmobileperformance.PNG)
 
-- ##Games##
+**Games**
 ![Games Performance](validatorcheckimages/gamesmobileperformance.PNG)
 
-- ##Index##
+**Index**
 ![Main Page Performance](validatorcheckimages/mobilemainpageperformance.PNG)
 
 ## Security Overview
