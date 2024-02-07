@@ -132,9 +132,6 @@ No errors were found when passing through the official [!WRC Validator](https://
 **Style**
 ![Style Check](validatorcheckimages/stylecsscheck.PNG)
 
-**Internal Nav**
-![Internal Nav Check](validatorcheckimages/internalnavcsscheck.PNG)
-
 **Privacy Policy**
 ![Privacy Policy Check](validatorcheckimages/privacypolicycsscheck.PNG)
 
