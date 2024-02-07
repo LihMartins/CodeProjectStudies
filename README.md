@@ -66,8 +66,8 @@ As you scroll through the cosmic tapestry of Indieverse, the footer whispers tal
 - **Cosmic Connections**
 Connect with the heart behind Indieverse through these cosmic portals:
 
-- Explore the creator's gaming universe on Steam: [![Steam Profile](https://icons.getbootstrap.com/icons/steam/)](https://steamcommunity.com/id/fucoffeelih)
-- Reach out to the Indieverse Crew via email at: [![Email](https://icons.getbootstrap.com/icons/envelope-paper-heart-fill/)](mailto:mynameisnotlih@gmail.com)
+- Explore the creator's gaming universe on Steam: [![Steam Profile](https://steamcommunity.com/id/fucoffeelih)
+- Reach out to the Indieverse Crew via email at: [![Email](mailto:mynameisnotlih@gmail.com)
 
 *Note: Indieverse has personalized these Bootstrap icons to match the unique style of our page.*
 
