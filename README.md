@@ -107,7 +107,7 @@ No errors were returned when passing through the official [!WRC Validator](https
 **Privacy Policy**
 ![Privacy Policy Check](validatorcheckimages/privacypolicyhtmlcheck.PNG)
 
-##CSS
+## CSS
 
 No errors were found when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
