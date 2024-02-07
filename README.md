@@ -80,33 +80,79 @@ Indieverse's features are carefully crafted to cater to gamers, developers, and 
 HTML
 No errors were returned when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
+- ##About##
 ![About Check](validatorcheckimages/abouthtmlcheck.PNG)
+
+- ##Confirmation Page##
 ![Confirmation Page Check](validatorcheckimages/confirmationpagehtmlcheck.PNG)
+
+- ##Contact##
 ![Contact Check](validatorcheckimages/contacthtmlcheck.PNG)
-![Cookies Settings Check](validatorcheckimages/cookiessettinghtmlcheck.PNG)
+
+- ##Cookie Settings##
+![Cookie Settings Check](validatorcheckimages/cookiessettinghtmlcheck.PNG)
+
+- ##Cult of The Lamb Page##
 ![Cult of the Lamb Check](validatorcheckimages/cultofthelambhtmlcheck.PNG)
+
+- ##Games##
 ![Games Check](validatorcheckimages/gameshtmlcheck.PNG)
+
+- ##Index##
 ![Index Check](validatorcheckimages/indexhtmlcheck.PNG)
+
+- ##Internal Nav##
 ![Internal Nav Check](validatorcheckimages/internalnavhtmlcheck.PNG)
+
+- ##Privacy Policy##
 ![Privacy Policy Check](validatorcheckimages/privacypolicyhtmlcheck.PNG)
 
-CSS
+##CSS
+
 No errors were found when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
+- ##About##
 ![About Check](validatorcheckimages/aboutcsscheck.PNG)
+
+- ##Confirmation Page##
 ![Confirmation Page Check](validatorcheckimages/confirmmationcsscheck.PNG)
+
+- ##Contact##
 ![Contact Check](validatorcheckimages/contactcsscheck.PNG)
+
+- ##Cookie Settings##
 ![Cookies Settings Check](validatorcheckimages/cookiessettingscsscheck.PNG)
+
+- ##Cult of the Lamb Page##
 ![Cult of the Lamb Check](validatorcheckimages/cultofthelambcsscheck.PNG)
+
+- ##Games##
 ![Games Check](validatorcheckimages/gamescsscheck.PNG)
+
+- ##Style##
 ![Style Check](validatorcheckimages/stylecsscheck.PNG)
+
+- ##Internal Nav##
 ![Internal Nav Check](validatorcheckimages/internalnavcsscheck.PNG)
+
+- ##Privacy Policy##
 ![Privacy Policy Check](validatorcheckimages/privacypolicycsscheck.PNG)
+
+- ##Media Query##
 ![Media Query Check](validatorcheckimages/mediaquerycsscheck.PNG)
 
 ## Unfixed Bugs
 
 Indieverse is committed to providing a seamless user experience, and we actively address and resolve bugs. However, there are a few known issues that are yet to be fixed. Here's an overview of the current challenges:
+
+### Manifest Bug
+
+- **Failed to load resource:** The server responded with a status of 404 ()
+- **Description:** This error is occurring when trying to load the manifest.json file.
+- **Attempts to Solve:** Various attempts have been made to resolve this issue, including verifying the correct structure of the manifest.json file and ensuring the correct link path. Despite these efforts, the problem persists. Additional troubleshooting is required to identify the root cause of the error.
+If you have any insights or suggestions on how to resolve this issue, your input would be greatly appreciated.
+
+![Manifest Bug](validatorcheckimages/manifestbug.PNG)
 
 ### Improvements
 
@@ -229,18 +275,36 @@ The culmination of all these resources and tools resulted in the creation of Ind
 
 ## Lighthouse Desktop Performance
 
+- ##About##
 ![About Performance](validatorcheckimages/aboutperformance.PNG)
+
+- ##Contact##
 ![Contact Performance](validatorcheckimages/contactperformance.PNG)
+
+- ##Cult of the Lamb Page##
 ![Cult Performance](validatorcheckimages/cultperformance.PNG)
+
+- ##Games##
 ![Games Performance](validatorcheckimages/gamesperformance.PNG)
+
+- ##Main Page##
 ![Main Page Performance](validatorcheckimages/lighthousemainpage.PNG)
 
 ## Lighthouse Mobile Performance
 
+- ##About##
 ![About Performance](validatorcheckimages/aboutmobileperformance.PNG)
+
+- ##Contact##
 ![Contact Performance](validatorcheckimages/contactmobileperformance.PNG)
+
+- ##Cult of the Lamb##
 ![Cult Performance](validatorcheckimages/cultmobileperformance.PNG)
+
+- ##Games##
 ![Games Performance](validatorcheckimages/gamesmobileperformance.PNG)
+
+- ##Index##
 ![Main Page Performance](validatorcheckimages/mobilemainpageperformance.PNG)
 
 ## Security Overview
