@@ -4,7 +4,7 @@ Welcome to Indieverse, your go-to platform for exploring the vibrant world of in
 
 ## Overview
 
-In the vast galaxy of gaming, Indieverse stands as a shining constellation dedicated to indie games and their visionary developers. Here, gamers are invited to escape the gravitational pull of conventional titles and explore the uncharted realms of indie gems. Our mission is to provide a platform where indie games take center stage, and the developers' stories become constellations in the vastness of the gaming cosmos.
+In the vast galaxy of gaming, Indieverse stands as a shining constellation dedicated to indie games and their visionary developers. Here, gamers are invited to escape the gravitational pull of conventional titles and explore the uncharted realms of indie gems. Our mission is to provide a platform where indie games take centre stage, and the developers' stories become constellations in the vastness of the gaming cosmos.
 
 ### Indieverse Layout Design: A Fusion of Simplicity and Creativity
 
@@ -12,7 +12,7 @@ The layout design of Indieverse reflects a deliberate effort to create a website
 
 The decision to place the "Page Brand" within the left-side menu was a strategic choice aimed at providing users with a quick and seamless overview of the entire page without losing the brand essence. This approach ensures that the brand is consistently present throughout the user's journey, creating a cohesive and recognizable experience.
 
-The content pages, in contrast, embody simplicity. The objective was to present information in a straightforward manner, avoiding unnecessary complexity. The navigation menus are designed to be intuitive, allowing users to easily access different sections of the website without any confusion.
+The content pages, in contrast, embody simplicity. The objective was to present information straightforwardly, avoiding unnecessary complexity. The navigation menus are designed to be intuitive, allowing users to easily access different sections of the website without any confusion.
 
 The inclusion of a left bar in the layout presented a significant challenge during the creation of Indieverse. Multiple iterations, trials, and adjustments were necessary to achieve the desired outcome. Aligning various elements and maintaining a harmonious layout required meticulous attention to detail.
 
@@ -23,43 +23,43 @@ In the end, the layout successfully captures the essence of simplicity and creat
 - **Home: Explore the Cosmic Gateway:**
 The main page welcomes users to Indieverse, providing a cosmic introduction to the universe of indie games. Users will find a brief overview of what Indieverse is all about, setting the stage for an extraordinary journey into the world of indie gaming.
 
-![Main Page](validatorcheckimages/mainpage.png)
+![Main Page](validatorcheckimages/mainpage.PNG)
 
 - **About: Unveiling the Stargazer:**
 The "About" section is a personal odyssey, offering a glimpse into the creator behind Indieverse. Discover the stargazer, the passionate gamer who embarked on a mission to bring indie games to the forefront. Get to know the force driving Indieverse and the commitment to celebrating indie creativity.
 
-![About Page](validatorcheckimages/about.png)
+![About Page](validatorcheckimages/about.PNG)
 
 - **Games: Navigating the Celestial Library**
 The heart of Indieverse, the "Games" section, is a celestial library of indie wonders. Users can explore a main page that teases upcoming reviews and sets the stage for gaming adventures. Dive deeper into the cosmos with a sub-menu featuring in-depth reviews of specific indie games. While Cult of The Lamb is the pioneer, more games are slated for exploration every week.
 
-![Games Page](validatorcheckimages/games.png)
-![Cult of the Lamb Page](validatorcheckimages/cultofthelamb.png)
+![Games Page](validatorcheckimages/games.PNG)
+![Cult of the Lamb Page](validatorcheckimages/cultofthelamb.PNG)
 
 - **Contact: Connecting Stars**
 Indieverse isn't just a portal; it's a community. The "Contact" page invites users to become part of the cosmic conversation. Whether it's sharing feedback, suggesting games for review, or developers seeking visibility, the contact page is the interstellar hub for connections.
 
-![Contact Page](validatorcheckimages/contact.png)
+![Contact Page](validatorcheckimages/contact.PNG)
 
 - **Footer: Where Love Meets Bits and Bytes**
 In the digital constellation of Indieverse, the footer is the cosmic bookmark that leaves an imprint of care and connection. Here, two stellar features shine brightly:
 
-![Footer](validatorcheckimages/footer.png)
+![Footer](validatorcheckimages/footer.PNG)
 
 - **Cookie Harmony**
-Navigating the universe of indie games requires a touch of sweetness. The Cookie Harmony in our footer warmly welcomes users, offering them a cosmic deal. Accept all cookies to enhance the journey or customise preferences in our magical cookie settings. It's not just about data; it's about creating a tailored experience for every space traveler.
+Navigating the universe of indie games requires a touch of sweetness. The Cookie Harmony in our footer warmly welcomes users, offering them a cosmic deal. Accept all cookies to enhance the journey or customise preferences in our magical cookie settings. It's not just about data; it's about creating a tailored experience for every space traveller.
 
-![Cookie Banner](validatorcheckimages/cookiebanner.png)
-![Cookie Settings](validatorcheckimages/cookiesettings.png)
+![Cookie Banner](validatorcheckimages/cookiebanner.PNG)
+![Cookie Settings](validatorcheckimages/cookiesettings.PNG)
 
 - **Privacy Policy: Protecting User Information on Indieverse**
 
 Indieverse prioritizes the privacy and security of its users. The inclusion of a dedicated Privacy Policy page underscores our commitment to transparency and safeguarding user information.
 
-![Privacy Policy](validatorcheckimages/privacypolicy.png)
+![Privacy Policy](validatorcheckimages/priivacypolicy.PNG)
 
 - **Crafted Affection**
-Beneath the pixelated sky, the footer proudly displays the handcrafted badge of love. Every pixel, every line, and every word is a labor of affection from the Indieverse Crew. It's more than a copyright statement; it's a declaration of commitment. Crafted with love, our digital creation invites you to explore the boundless galaxies of indie gaming.
+Beneath the pixelated sky, the footer proudly displays the handcrafted badge of love. Every pixel, every line, and every word is a labour of affection from the Indieverse Crew. It's more than a copyright statement; it's a declaration of commitment. Crafted with love, our digital creation invites you to explore the boundless galaxies of indie gaming.
 
 As you scroll through the cosmic tapestry of Indieverse, the footer whispers tales of care and passion—where bits and bytes embrace in a celestial dance. It's not just a sign-off; it's a cosmic hug, inviting you to experience indie gaming like never before.
 
@@ -80,28 +80,29 @@ Indieverse's features are carefully crafted to cater to gamers, developers, and 
 HTML
 No errors were returned when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
-![About Check](validatorcheckimages/abouthtmlcheck.png)
-![Confirmation Page Check](validatorcheckimages/confirmationpagehtmlcheck.jpg)
-![Contact Check](validatorcheckimages/contacthtmlcheck.png)
-![Cookies Settings Check](validatorcheckimages/cookiessettingshtmlcheck.jpg)
-![Cult of the Lamb Check](validatorcheckimages/cultofthelambhtmlcheck.png)
-![Games Check](validatorcheckimages/gameshtmlcheck.jpg)
-![Index Check](validatorcheckimages/indexhtmlcheck.png)
-![Internal Nav Check](validatorcheckimages/internalnavhtmlcheck.jpg)
-![Privacy Policy Check](validatorcheckimages/privacypolicyhtmlcheck.png)
+![About Check](validatorcheckimages/abouthtmlcheck.PNG)
+![Confirmation Page Check](validatorcheckimages/confirmationpagehtmlcheck.PNG)
+![Contact Check](validatorcheckimages/contacthtmlcheck.PNG)
+![Cookies Settings Check](validatorcheckimages/cookiessettinghtmlcheck.PNG)
+![Cult of the Lamb Check](validatorcheckimages/cultofthelambhtmlcheck.PNG)
+![Games Check](validatorcheckimages/gameshtmlcheck.PNG)
+![Index Check](validatorcheckimages/indexhtmlcheck.PNG)
+![Internal Nav Check](validatorcheckimages/internalnavhtmlcheck.PNG)
+![Privacy Policy Check](validatorcheckimages/privacypolicyhtmlcheck.PNG)
 
 CSS
 No errors were found when passing through the official [!WRC Validator](https://validator.w3.org/nu/)
 
-![About Check](validatorcheckimages/aboutcsscheck.png)
-![Confirmation Page Check](validatorcheckimages/confirmationpagecsscheck.jpg)
-![Contact Check](validatorcheckimages/contactcsscheck.png)
-![Cookies Settings Check](validatorcheckimages/cookiessettingscsscheck.jpg)
-![Cult of the Lamb Check](validatorcheckimages/cultofthelambcsscheck.png)
-![Games Check](validatorcheckimages/gamescsscheck.jpg)
-![Index Check](validatorcheckimages/indexcsscheck.png)
-![Internal Nav Check](validatorcheckimages/internalnavcsscheck.jpg)
-![Privacy Policy Check](validatorcheckimages/privacypolicycsscheck.png)
+![About Check](validatorcheckimages/aboutcsscheck.PNG)
+![Confirmation Page Check](validatorcheckimages/confirmmationcsscheck.PNG)
+![Contact Check](validatorcheckimages/contactcsscheck.PNG)
+![Cookies Settings Check](validatorcheckimages/cookiessettingscsscheck.PNG)
+![Cult of the Lamb Check](validatorcheckimages/cultofthelambcsscheck.PNG)
+![Games Check](validatorcheckimages/gamescsscheck.PNG)
+![Style Check](validatorcheckimages/stylecsscheck.PNG)
+![Internal Nav Check](validatorcheckimages/internalnavcsscheck.PNG)
+![Privacy Policy Check](validatorcheckimages/privacypolicycsscheck.PNG)
+![Media Query Check](validatorcheckimages/mediaquerycsscheck.PNG)
 
 ## Unfixed Bugs
 
@@ -119,7 +120,7 @@ Indieverse is committed to providing a seamless user experience, and we actively
    - **Status:** Unresolved
    - **Details:** Despite efforts to associate labels with form fields, the message persists in DevTools. Further investigation is needed for a complete resolution.
 
-![Improvements](validatorcheckimages/improvements.png)
+![Improvements](validatorcheckimages/improvements.PNG)
 
 *Note: Indieverse is actively working to address these issues and appreciates your understanding as we strive to enhance the user experience.*
 
@@ -228,23 +229,23 @@ The culmination of all these resources and tools resulted in the creation of Ind
 
 ## Lighthouse Desktop Performance
 
-![About Performance](validatorcheckimages/aboutperformance.png)
-![Contact Performance](validatorcheckimages/contactperformance.png)
-![Cult Performance](validatorcheckimages/cultperformance.png)
-![Games Performance](validatorcheckimages/gamesperformance.png)
-![Main Page Performance](validatorcheckimages/lighthousemainpage.png)
+![About Performance](validatorcheckimages/aboutperformance.PNG)
+![Contact Performance](validatorcheckimages/contactperformance.PNG)
+![Cult Performance](validatorcheckimages/cultperformance.PNG)
+![Games Performance](validatorcheckimages/gamesperformance.PNG)
+![Main Page Performance](validatorcheckimages/lighthousemainpage.PNG)
 
 ## Lighthouse Mobile Performance
 
-![About Performance](validatorcheckimages/aboutmobileperformance.png)
-![Contact Performance](validatorcheckimages/contactmobileperformance.png)
-![Cult Performance](validatorcheckimages/cultmobileperformance.png)
-![Games Performance](validatorcheckimages/gamesmobileperformance.png)
-![Main Page Performance](validatorcheckimages/mobilemainpageperformance.png)
+![About Performance](validatorcheckimages/aboutmobileperformance.PNG)
+![Contact Performance](validatorcheckimages/contactmobileperformance.PNG)
+![Cult Performance](validatorcheckimages/cultmobileperformance.PNG)
+![Games Performance](validatorcheckimages/gamesmobileperformance.PNG)
+![Main Page Performance](validatorcheckimages/mobilemainpageperformance.PNG)
 
 ## Security Overview
 
-![Security Overview](validatorcheckimages/securityoverview.png)
+![Security Overview](validatorcheckimages/securityoverview.PNG)
 
 ## Finals
 
